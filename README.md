@@ -1,3 +1,2 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+#### Project Preview
+https://react-project-color-generator.netlify.app/
